@@ -1,8 +1,0 @@
-# Editor Dependencies
-.vscode/
-
-# Os Dependencies
-.DS_Store
-
-# Others
-.idea/
